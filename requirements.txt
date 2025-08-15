@@ -1,3 +1,14 @@
+Flask==2.3.3
+requests==2.31.0
+pyrogram==2.0.0b10
+tgcrypto==1.4.0
+pyromod==1.0.7
+aiohttp==3.8.5
+m3u8==5.0.0
+yt-dlp==2025.08.15
+ffmpeg-python==0.3.0
+python-dotenv==1.0.0
+tqdm==4.66.1
 pyrogram
 tgcrypto
 requests
