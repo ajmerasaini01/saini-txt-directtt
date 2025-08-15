@@ -10,3 +10,7 @@ ffprobe
 asyncio
 humanize
 flask
+requests
+m3u8
+ffmpeg-python
+beautifulsoup4
